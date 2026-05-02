@@ -7,3 +7,4 @@
 - [2026-05-02T10:34:30Z] refactor: clean up unused imports
 - [2026-05-02T14:45:08Z] fix: resolve edge case in input validation
 - [2026-05-02T08:37:28Z] style: apply consistent code formatting
+- [2026-05-02T19:52:35Z] docs: update README with usage examples
