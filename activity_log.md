@@ -9,3 +9,4 @@
 - [2026-05-02T08:37:28Z] style: apply consistent code formatting
 - [2026-05-02T19:52:35Z] docs: update README with usage examples
 - [2026-05-02T16:09:09Z] fix: resolve edge case in input validation
+- [2026-05-02T18:34:46Z] feat: add helper utility function
